@@ -1,55 +1,38 @@
 # scout_and_scribe_crew
+# 🚀 Research and Blog Crew (Multi-Agent AI System)
 
-
-# 🤖 CrewAI Multi-Agent Blog Generator
-
-A complete Multi-Agent AI Blog Generation System built using CrewAI, FastAPI/Flask, and real-time AI tools.
-
-This project demonstrates how multiple AI agents collaborate together to:
-- Research topics
-- Generate blog drafts
-- Create social media posts
-- Use online search and scraping tools
-- Execute tasks sequentially
+A powerful **multi-agent AI system** built using [CrewAI](https://www.crewai.com/) that automatically:
+- Researches any topic
+- Generates a detailed structured report
+- Converts it into a simple and engaging blog
 
 ---
 
-# 🚀 Features
+# 📌 Features
 
-✅ Multi-Agent Architecture  
-✅ CrewAI Framework  
-✅ Sequential Task Execution  
-✅ Real-Time Web Search  
-✅ Blog Generation  
-✅ Social Media Content Creation  
-✅ API Integration  
-✅ FastAPI / Flask Support  
-✅ Context Awareness  
-✅ Selenium Web Scraping Support  
+- 🤖 Multi-Agent AI Architecture  
+- 🧠 Sequential Task Execution  
+- 📄 Automated Research Report Generation  
+- ✍️ AI-powered Blog Writing  
+- ⚙️ YAML-based configuration system  
+- 🔥 Easy to extend and customize  
 
 ---
 
-# 🧠 What is CrewAI?
+# 🧠 How It Works
 
-CrewAI is a Python-based Multi-Agent AI framework where multiple AI agents work together to solve complex tasks.
+This project uses two AI agents working together:
 
-Instead of using one AI for everything, CrewAI allows:
-- Specialized AI agents
-- Team collaboration
-- Task distribution
-- Sequential workflows
+## 1️⃣ Report Generator Agent
+- Researches the given topic  
+- Generates a detailed structured report  
+- Includes facts, trends, and analysis  
+
+## 2️⃣ Blog Writer Agent
+- Reads the report  
+- Converts it into a simple, engaging blog  
+- Makes it easy for beginners to understand  
 
 ---
 
-# 🏗️ Project Workflow
 
-```text
-User Input
-    ↓
-Research Agent
-    ↓
-Draft Writer Agent
-    ↓
-Social Media Agent
-    ↓
-Final Output
