@@ -1,5 +1,5 @@
-# scout_and_scribe_crew
-# 🚀 Research and Blog Crew (Multi-Agent AI System)
+
+# 🚀 scout_and_scribe_crew(Multi-Agent AI System)
 
 A powerful **multi-agent AI system** built using [CrewAI](https://www.crewai.com/) that automatically:
 - Researches any topic
